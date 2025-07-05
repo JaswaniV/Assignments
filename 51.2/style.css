@@ -1,0 +1,51 @@
+.bg-green{
+    background-color: green;
+}
+
+.p-40{
+    padding: 40px;
+}
+
+.div-border{
+    border: 10px solid black;
+}
+
+.w-500{
+    width: 500px;
+}
+
+.h-250{
+    height: 250px;
+}
+
+.div-margin{
+    margin:10px 10px 10px 10px;
+}
+
+.bg-none{
+    background:none;
+}
+
+.f-40{
+    font-size: 40px;
+}
+
+.align-center{
+    text-align:center;
+}
+
+.h-margin{
+    margin :0 auto;
+}
+
+.h-border{
+    border:3px dotted black;
+}
+
+.p-10{
+    padding: 10;
+}
+
+.w-300{
+    width: 300px;
+}
