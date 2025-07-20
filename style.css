@@ -1,0 +1,27 @@
+body {
+  font-family: serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.font40{
+    font-size: 40px;
+}
+
+.font20{
+    font-size:20px;
+}
+
+.red{
+    color:red;
+}
+
+
+.green{
+    color:green;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
